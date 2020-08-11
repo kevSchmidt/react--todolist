@@ -9,6 +9,8 @@ import AddTodo from "./components/todo/AddTodo";
 import "./App.css";
 
 class App extends Component {
+  // ===== State ===
+
   state = {
     todos: [
       {
